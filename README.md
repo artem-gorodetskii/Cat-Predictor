@@ -16,5 +16,5 @@ Firstly, the MobileNetv2 model was trained on [**dataset containing 17 different
 ship, dog, house, bottle, bird, background, cat, camel, watch, chair and panda. The figure bellow illustrates images examples from this dataset:
 
 <p align="center">
-  <img src="images/examples_17categories_dataset.jpg" width="400" />
+  <img src="images/examples_17categories_dataset.jpg" width="600" />
 </p>
