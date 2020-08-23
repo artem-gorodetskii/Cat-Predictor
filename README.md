@@ -15,5 +15,5 @@ The MobileNetv2 architecture was used as a base model.
 Firstly, the MobileNetv2 model was trained on [**dataset containing 17 different classes**](https://www.kaggle.com/davidbirdy/17categories) including: guitar, flower, car, motobike, airplane, face, 
 ship, dog, house, bottle, bird, background, cat, camel, watch, chair and panda. The figure bellow illustrates images examples from this dataset:
 <p align="center">
-  <img src="examples_17categories_dataset.png" width="400" />
+  <img src="examples_17categories_dataset.jpg" width="400" />
 </p>
