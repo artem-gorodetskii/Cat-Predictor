@@ -8,7 +8,7 @@ The application allows to take photos and predict probability of cats on them. T
 
 ## Project structure
 * The "Android App" directory contains Android Studio project.
-* The "Tensorflow model" directory contains Jupyter notebooks with TensorFlow implementation of the model.
+* The "Tensorflow model" directory contains Jupyter notebooks with TensorFlow implementation of the model including code for conversion to Tensorflow Lite model.
 
 ## Model architecture and training process
 The MobileNetv2 architecture was used as a base model. It was trained on Tesla K80 GPU (Kaggle).
