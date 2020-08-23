@@ -12,5 +12,5 @@ The application allows to take photos and predict probability of cats on them. T
 
 ## Model architecture and training process
 The MobileNetv2 architecture was used as a base model.
-Firstly, the MobileNetv2 model was trained on dataset containing 17 different classes including: guitar, flower, car, motobike, airplane, face, 
+Firstly, the MobileNetv2 model was trained on [**dataset containing 17 different classes**](https://www.kaggle.com/davidbirdy/17categories) including: guitar, flower, car, motobike, airplane, face, 
 ship, dog, house, bottle, bird, background, cat, camel, watch, chair and panda.
