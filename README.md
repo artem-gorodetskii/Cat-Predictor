@@ -1,9 +1,7 @@
 # Cat-Predictor
 This project represents the integration of TensorFlow Lite into Android application. 
 The application allows to take photos and predict probability of cats on them. The picture below shows two examples of application screenshots:
-<p align="center">
-  <img src="images/android_results.png" width="300" />
-</p>
+![img1](images/android_results.png)
 
 ## Project structure
 * The "Android App" directory contains Android Studio project.
