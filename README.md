@@ -25,7 +25,7 @@ ship, dog, house, bottle, bird, background, cat, camel, watch, chair and panda. 
   <img src="images/confusion_matrix.png" width="400" />
 </p>
 
-* Secondly, the top layer of the MobileNetv2 model was removed and a Dense layer with one neuron was added instead, in order to perform binary classifcation beetween cats and not cats (notebook "main_model_training.ipynb"). This "main" model was trained on [**dataset containimg images with and without cats**](https://www.kaggle.com/davidbirdy/catsnotcats). Images for "not cat" class was taken from [**Open Images Object Detection RVC 2020 edition**](https://www.kaggle.com/c/open-images-object-detection-rvc-2020/overview). The figure bellow illustrates images examples from "Cats - not Cats" dataset:
+* Secondly, the top layer of the MobileNetv2 model was removed and a Dense layer with one neuron was added instead, in order to perform binary classifcation beetween cats and not cats (notebook "main_model_training.ipynb"). This "main" model was trained on [**dataset containing images with and without cats**](https://www.kaggle.com/davidbirdy/catsnotcats). Images for "not cat" class was taken from [**Open Images Object Detection RVC 2020 edition**](https://www.kaggle.com/c/open-images-object-detection-rvc-2020/overview). The figure bellow illustrates images examples from "Cats - not Cats" dataset:
 
 <p align="center">
   <img src="images/examples_catsnontcats.jpg" width="600" />
