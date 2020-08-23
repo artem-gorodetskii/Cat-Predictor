@@ -19,7 +19,7 @@ ship, dog, house, bottle, bird, background, cat, camel, watch, chair and panda. 
   <img src="images/examples_17categories_dataset.jpg" width="600" />
 </p>
 
-* As a result, the MobileNetv2 model average precision, recall and F1 scores are 0.806, 0.802, and 0.802, respectively.The following picture shows the confusion matrix:
+* As a result, the MobileNetv2 model average precision, recall and F1 scores are 0.806, 0.802, and 0.802, respectively. The following picture shows the confusion matrix:
 
 <p align="center">
   <img src="images/confusion_matrix.png" width="400" />
@@ -31,4 +31,4 @@ ship, dog, house, bottle, bird, background, cat, camel, watch, chair and panda. 
   <img src="images/examples_catsnontcats.jpg" width="600" />
 </p>
 
-* The final model accuracy, precision, recall and Fi scores are 0.925, 0.984, 0.865 and 0.920, correspondingly :rocket:.
+* The final model accuracy, precision, recall and F1 scores are 0.925, 0.984, 0.865 and 0.920, correspondingly :rocket:.
